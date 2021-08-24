@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shegulsproum&label=Profile%20views&color=0e75b6&style=flat" alt="shegulsproum" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sheguls_proum" target="blank"><img src="https://img.shields.io/twitter/follow/sheguls_proum?logo=twitter&style=for-the-badge" alt="sheguls_proum" /></a> </p>
-
 - 🔭 I’m currently working on [RV3-Learning](https://github.com/ShegulsProum/RWV3-Learning)
 
 - 🌱 I’m currently learning **Vue.js,Quasar,Rust,Node.js**
