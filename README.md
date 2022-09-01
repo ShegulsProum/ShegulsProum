@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [nest-bookstore](https://github.com/ShegulsProum/nest-bookstore)
 
-- 🌱 I’m currently learning **JS/TS, Vue, NestJS, Docker, Kubernetes, GitLab CD/CI, Quasar, Nuxt**
+- 🌱 I’m currently learning **JS/TS, Vue, NestJS, Docker, Kubernetes, GitLab CD/CI, Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShegulsProum](https://github.com/ShegulsProum)
 
