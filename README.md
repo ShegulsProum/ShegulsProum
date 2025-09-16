@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egor (or Sheg for some people)</h1>
-<h3 align="center">Junior Fullstack Developer</h3>
+<h3 align="center">JS|TS Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shegulsproum&label=Profile%20views&color=0e75b6&style=flat" alt="shegulsproum" /> </p>
 
