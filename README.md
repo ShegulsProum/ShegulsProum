@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheguls_proum" target="blank"><img src="https://img.shields.io/twitter/follow/sheguls_proum?logo=twitter&style=for-the-badge" alt="sheguls_proum" /></a> </p>
 
-- 🔭 I’m currently working on [nest-bookstore](https://github.com/ShegulsProum/nest-bookstore)
+- 🔭 I’m currently working on translating on Russuian [cncf/glossary](https://github.com/ShegulsProum/glossary)
 
 - 🌱 I’m currently learning **JS/TS, Vue, NestJS, Docker, Kubernetes, GitLab CD/CI, Nuxt**
 
